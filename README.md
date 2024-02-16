@@ -1,2 +1,2 @@
 # odin_Project
-sites that i made in the Odin project course
+github to save my project in my journey throughthe odin project
