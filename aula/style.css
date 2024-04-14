@@ -1,0 +1,11 @@
+body{
+    background-color: cadetblue;
+}
+
+.teste{
+    background-color: antiquewhite;
+}
+
+.ancestor .contents {
+    background-color: #ff000080;
+  }
